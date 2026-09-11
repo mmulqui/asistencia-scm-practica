@@ -1,4 +1,5 @@
 # main.py - Sistema de Asistencia (v2.1.0)
+#comentario de prueba
 
 total_asistencias = 0
 historial_registros = []
