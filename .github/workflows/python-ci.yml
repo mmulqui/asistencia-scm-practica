@@ -26,4 +26,4 @@ jobs:
 
             - name: Ejecutar tests con pytest
               run: |
-                pytest -m pytest -v
+                python -m pytest -v
